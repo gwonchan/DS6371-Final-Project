@@ -22,7 +22,8 @@ The data description contains general information features of the dataset. The d
 * [`res4.cvs`]: mutiple linear regression model prediction dataset 
 
 ## paper
-https://docs.google.com/document/d/16G3wzmsuRUBV_cM8NRXL2Qgc_zY7N_EiSJhPOJExSAo/e
+https://docs.google.com/document/d/16G3wzmsuRUBV_cM8NRXL2Qgc_zY7N_EiSJhPOJExSAo/edit
+
 
 ## rshiny
 https://6jv0lq-jason-yoon.shinyapps.io/stats/
